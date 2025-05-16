@@ -5,6 +5,8 @@ int main() {
     int a = 1996;
     int b = 2025;
     int age = b - a;
+    double pi = 3.14;
+    bool isTrue = true;
     char initial = 'Y';
     char last = 'A';
     std::string name = "Youssef";
